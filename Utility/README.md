@@ -1,0 +1,1 @@
+A seating chart configuration
